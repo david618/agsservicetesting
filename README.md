@@ -31,7 +31,7 @@ The Simple Controler contains a sequence of example commands.
 - Four requests to MapServer service
 - Four reuquest to FeatureServer service
 
-The Map and Feature service calls each read a envelope from bbox_sample files in the bbox_samples_folder. The [createSampleBbox.py](./scripts/createSimpleBbox.py) Python script was used to create the bbox_sample files. Using files like this allows you to get a random set of inputs and repeat the tests with this same input as needed.
+The Map and Feature service calls each read a envelope from bbox_sample files in the bbox_samples_folder. The [createSampleBbox.py](./scripts/createSampleBbox.py) Python script was used to create the bbox_sample files. Using files like this allows you to get a random set of inputs and repeat the tests with this same input as needed.
 
 ## Reviewing the Results
 The Summary Report provides overall stats for a particular test run. You can reset the stats using menu Run -> Clear All.
