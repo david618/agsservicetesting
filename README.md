@@ -65,5 +65,5 @@ You'll see some output on you're screen as it's running.
 
 The reports are written to the logs folder.
 
-The Summary report includes a line for each request.  The [StatsSummary.py](./scripts/StatsSummary) Python script can be used to read the report and output average calls per second for each request type.
+The Summary report includes a line for each request.  The [StatsSummary.py](./scripts/StatsSummary.py) Python script can be used to read the report and output average calls per second for each request type.
 
