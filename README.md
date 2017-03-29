@@ -14,7 +14,7 @@ Start Apache JMeter.  Run bat file or sh script in the bin folder.
 Open [LoadTest1.jmx](./jmeter/plans/LoadTest1.jmx).  This XML file was created from using the GUI.  
 
 At the top of the plan (XML) there is a section of User Defined Properties.
-- bbox_samples_folder
+- bbox_samples_folder 
 - service_folder
 - service_name1
 - log_folder
@@ -22,6 +22,14 @@ At the top of the plan (XML) there is a section of User Defined Properties.
 - port 
 
 You'll need to set these for your configuration.  
+
+For example to test a Map/Feature service named FAA-Stream running in the "Hosted" folder on a server named ags.example.com
+- bbox_samples_folder : /home/david/agsservicetesting/scripts/
+- service_folder : Hosted
+- service_name1 : FAA-Steam
+- log_folder : /home/david/agsservicetesting/logs
+- server : ags.example.com
+- port : 6443
 
 In the Thread Group you set the number of threads (users) and the Loop Count. For example setting users to 5 and loop count to 100. Each user will execute each request 100 times.  
 
@@ -31,7 +39,7 @@ The Simple Controler contains a sequence of example commands.
 - Four requests to MapServer service
 - Four reuquest to FeatureServer service
 
-The Map and Feature service calls each read a envelope from bbox_sample files in the bbox_samples_folder. The [createSampleBbox.py](./scripts/createSampleBbox.py) Python script was used to create the bbox_sample files. Using files like this allows you to get a random set of inputs and repeat the tests with this same input as needed.
+The Map and Feature service specify and envelope in there calls using bbox_sample files in the bbox_samples_folder. The [createSampleBbox.py](./scripts/createSampleBbox.py) Python script was used to create the bbox_sample files. Using files like this allows you to get a random set of inputs and also allows you to repeat the tests with this same input as needed.
 
 ## Reviewing the Results
 The Summary Report provides overall stats for a particular test run. You can reset the stats using menu Run -> Clear All.
