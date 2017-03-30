@@ -232,9 +232,9 @@ And from https://dj32ags.westus.cloudapp.azure.com:7443 (portal_7443)
 ## Configure Web Adaptors
 
 <pre>
-~/webadaptor10.5/java/tools/configurewebadaptor.sh -m portal -w https://dj32ags.westus.cloudapp.azure.com/portal/webadaptor -g https://dj32ags.westus.cloudapp.azure.com:7443 -u portaladmin -p <PASSWORD>
+~/webadaptor10.5/java/tools/configurewebadaptor.sh -m portal -w https://dj32ags.westus.cloudapp.azure.com/portal/webadaptor -g https://dj32ags.westus.cloudapp.azure.com:7443 -u portaladmin -p &lt;PASSWORD&gt;
 
-~/webadaptor10.5/java/tools/configurewebadaptor.sh -m server -w https://dj32ags.westus.cloudapp.azure.com/arcgis/webadaptor -g https://dj32ags.westus.cloudapp.azure.com:6443 -u siteadmin -p <PASSWORD> -a true
+~/webadaptor10.5/java/tools/configurewebadaptor.sh -m server -w https://dj32ags.westus.cloudapp.azure.com/arcgis/webadaptor -g https://dj32ags.westus.cloudapp.azure.com:6443 -u siteadmin -p &lt;PASSWORD&gt; -a true
 </pre>
 
 ## Install GeoEvent
@@ -259,9 +259,9 @@ cd ArcGISDataStore_Linux/
 
 ./Setup -m silent -l yes
 
-/home/arcgis/arcgis/datastore/tools/configuredatastore.sh https://dj32ags.westus.cloudapp.azure.com:6443/arcgis/admin siteadmin <PASSWORD> /home/arcgis/arcgis/rds
+/home/arcgis/arcgis/datastore/tools/configuredatastore.sh https://dj32ags.westus.cloudapp.azure.com:6443/arcgis/admin siteadmin &lt;PASSWORD&gt; /home/arcgis/arcgis/rds
 
-/home/arcgis/arcgis/datastore/tools/configuredatastore.sh https://dj32ags.westus.cloudapp.azure.com:6443/arcgis/admin siteadmin <PASSWORD> /home/arcgis/arcgis/bds --stores spatiotemporal
+/home/arcgis/arcgis/datastore/tools/configuredatastore.sh https://dj32ags.westus.cloudapp.azure.com:6443/arcgis/admin siteadmin &lt;PASSWORD&gt; /home/arcgis/arcgis/bds --stores spatiotemporal
 </pre>
 
 NOTE: If BDS is on separate server it gets registered to the server running the Relational Data Store.
@@ -298,6 +298,7 @@ https://dj32ags.westus.cloudapp.azure.com/portal
 ## Configure Startup Scripts
 
 As root setup the startup scripts. 
+<pre>
 cp /home/arcgis/arcgis/portal/framework/etc/arcgisportal.service /etc/systemd/system/
 cp /home/arcgis/arcgis/datastore/framework/etc/scripts/arcgisdatastore.service /etc/systemd/system/
 cp /home/arcgis/server/framework/etc/scripts/arcgisserver.service /etc/systemd/system/
@@ -307,11 +308,13 @@ systemctl enable arcgisportal.service
 systemctl enable arcgisserver.service
 systemctl enable arcgisdatastore.service
 systemctl enable geoevent.service
-
+</pre>
 NOTE: Modify /etc/systemd/system/tomcat8.service arcgisportal.server after network.target on the After line.  
 systemctl daemon-reload
 
+<pre>
 systemctl reboot
+</pre>
 
 After reboot verify that all the services come back.
 
