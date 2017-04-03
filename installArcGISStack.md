@@ -247,7 +247,7 @@ cd ArcGISGeoEventServer/
 
 cd /home/arcgis/server/tools
 
-./authorizeSoftware -f /home/arcgis/Server_GeoEvent.prvc -e <email-address>
+./authorizeSoftware -f /home/arcgis/Server_GeoEvent.prvc -e &lt;email-address&gt;
 
 /home/arcgis/server/GeoEvent/bin/ArcGISGeoEvent-service start
 </pre>
