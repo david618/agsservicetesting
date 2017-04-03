@@ -274,13 +274,21 @@ Got to Portal Home
 
 My Organization
 
+Edit Settings
+
 Servers
 
-Add ArcGIS Server
+Federated Servers
+
+Add Server
 https://dj32ags.westus.cloudapp.azure.com/arcgis
 https://dj32ags.westus.cloudapp.azure.com:6443/arcgis
 
-Set as hosting server
+Under Hosting Server
+
+Select Server you just added.
+
+Save
 
 ## Configure GeoEvent 
 
@@ -290,6 +298,7 @@ Site
 Data Stores
 Register ArcGIS Server
 
+Portal
 Use Credentials
 Name: portal
 Username: portaladmin
@@ -310,7 +319,7 @@ systemctl enable arcgisserver.service
 systemctl enable arcgisdatastore.service
 systemctl enable geoevent.service
 </pre>
-NOTE: Modify /etc/systemd/system/tomcat8.service arcgisportal.server after network.target on the After line.  
+NOTE: Modify /etc/systemd/system/tomcat8.service arcgisportal.service after network.target on the After line.  
 systemctl daemon-reload
 
 <pre>
