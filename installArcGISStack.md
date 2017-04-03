@@ -26,6 +26,7 @@ yum -y install mesa-libGL
 <pre>
 yum -y install httpd
 yum -y install mod_ssl
+yum install java-1.8.0-openjdk
 </pre>
 
 ## Create arcgis user
