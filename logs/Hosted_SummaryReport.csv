@@ -1,0 +1,1677 @@
+Get Map Service Info,200,OK,text,1747,318
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,8909,834
+Mapserver Export Map 1,200,OK,bin,1567,73
+Mapserver Export Map 1,200,OK,bin,2460,64
+Mapserver Export Map 1,200,OK,bin,1139,56
+Featureserver Query 1,200,OK,text,851620,647
+Featureserver Query 1,200,OK,text,857347,369
+Featureserver Query 1,200,OK,text,852175,497
+Featureserver Query 1,200,OK,text,850588,393
+Get Map Service Info,200,OK,text,1747,57
+Get Legend,200,OK,text,903,22
+Mapserver Export Map 1,200,OK,bin,6434,99
+Mapserver Export Map 1,200,OK,bin,9607,166
+Mapserver Export Map 1,200,OK,bin,1185,40
+Mapserver Export Map 1,200,OK,bin,8559,131
+Featureserver Query 1,200,OK,text,849837,477
+Featureserver Query 1,200,OK,text,847029,334
+Featureserver Query 1,200,OK,text,851171,309
+Featureserver Query 1,200,OK,text,626,8
+Get Map Service Info,200,OK,text,1747,47
+Get Legend,200,OK,text,903,20
+Mapserver Export Map 1,200,OK,bin,5725,87
+Mapserver Export Map 1,200,OK,bin,4317,90
+Get Map Service Info,200,OK,text,1747,87
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,8909,80
+Mapserver Export Map 1,200,OK,bin,1567,26
+Mapserver Export Map 1,200,OK,bin,2460,34
+Mapserver Export Map 1,200,OK,bin,1139,24
+Featureserver Query 1,200,OK,text,851620,312
+Featureserver Query 1,200,OK,text,857347,303
+Featureserver Query 1,Non HTTP response code: javax.net.ssl.SSLProtocolException,Non HTTP response message: Data received in non-data state: 6,text,1472,222
+Get Map Service Info,200,OK,text,1747,84
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,8909,76
+Mapserver Export Map 1,200,OK,bin,1567,21
+Mapserver Export Map 1,200,OK,bin,2460,32
+Mapserver Export Map 1,200,OK,bin,1139,29
+Featureserver Query 1,200,OK,text,851620,292
+Featureserver Query 1,200,OK,text,857347,298
+Featureserver Query 1,200,OK,text,852175,214
+Featureserver Query 1,200,OK,text,850588,260
+Get Map Service Info,200,OK,text,1747,40
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,6434,77
+Mapserver Export Map 1,200,OK,bin,9607,86
+Mapserver Export Map 1,200,OK,bin,1185,34
+Mapserver Export Map 1,200,OK,bin,8559,85
+Featureserver Query 1,200,OK,text,849837,354
+Featureserver Query 1,200,OK,text,847029,240
+Featureserver Query 1,200,OK,text,851171,258
+Featureserver Query 1,200,OK,text,626,5
+Get Map Service Info,200,OK,text,1747,32
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,5725,45
+Mapserver Export Map 1,200,OK,bin,4317,48
+Mapserver Export Map 1,200,OK,bin,5934,66
+Mapserver Export Map 1,200,OK,bin,3415,42
+Featureserver Query 1,200,OK,text,108821,94
+Featureserver Query 1,200,OK,text,725177,245
+Featureserver Query 1,200,OK,text,852804,248
+Featureserver Query 1,200,OK,text,853009,276
+Get Map Service Info,200,OK,text,1747,43
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,10212,113
+Mapserver Export Map 1,200,OK,bin,4705,52
+Mapserver Export Map 1,200,OK,bin,5653,94
+Mapserver Export Map 1,200,OK,bin,1709,37
+Featureserver Query 1,200,OK,text,850186,333
+Featureserver Query 1,200,OK,text,741970,194
+Featureserver Query 1,200,OK,text,859316,328
+Featureserver Query 1,200,OK,text,626,4
+Get Map Service Info,200,OK,text,1747,32
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,7072,55
+Mapserver Export Map 1,200,OK,bin,19634,172
+Mapserver Export Map 1,200,OK,bin,9579,69
+Mapserver Export Map 1,200,OK,bin,1026,27
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,3470,8
+Featureserver Query 1,200,OK,text,626,5
+Featureserver Query 1,200,OK,text,851275,284
+Get Map Service Info,200,OK,text,1747,32
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,1128,27
+Mapserver Export Map 1,200,OK,bin,2377,28
+Mapserver Export Map 1,200,OK,bin,4703,42
+Mapserver Export Map 1,200,OK,bin,1331,23
+Featureserver Query 1,200,OK,text,675421,156
+Featureserver Query 1,200,OK,text,640901,262
+Featureserver Query 1,200,OK,text,850363,408
+Featureserver Query 1,200,OK,text,849885,299
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,14987,154
+Mapserver Export Map 1,200,OK,bin,8463,73
+Mapserver Export Map 1,200,OK,bin,19008,150
+Mapserver Export Map 1,200,OK,bin,8456,118
+Featureserver Query 1,200,OK,text,49383,18
+Featureserver Query 1,200,OK,text,852430,230
+Featureserver Query 1,200,OK,text,10246,18
+Featureserver Query 1,200,OK,text,858502,333
+Get Map Service Info,200,OK,text,1747,40
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,18440,197
+Mapserver Export Map 1,200,OK,bin,2995,44
+Mapserver Export Map 1,200,OK,bin,5867,84
+Mapserver Export Map 1,200,OK,bin,1191,29
+Featureserver Query 1,200,OK,text,30217,32
+Featureserver Query 1,200,OK,text,851488,295
+Featureserver Query 1,200,OK,text,550871,151
+Featureserver Query 1,200,OK,text,556956,158
+Get Map Service Info,200,OK,text,1747,27
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,4977,48
+Mapserver Export Map 1,200,OK,bin,5034,64
+Mapserver Export Map 1,200,OK,bin,3835,41
+Mapserver Export Map 1,200,OK,bin,12567,92
+Featureserver Query 1,200,OK,text,91071,32
+Featureserver Query 1,200,OK,text,626,5
+Featureserver Query 1,200,OK,text,626,6
+Featureserver Query 1,200,OK,text,626,6
+Get Map Service Info,200,OK,text,1747,31
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,2838,41
+Mapserver Export Map 1,200,OK,bin,2494,28
+Mapserver Export Map 1,200,OK,bin,6923,53
+Mapserver Export Map 1,200,OK,bin,7409,57
+Featureserver Query 1,200,OK,text,849837,309
+Featureserver Query 1,200,OK,text,850392,365
+Featureserver Query 1,200,OK,text,850742,321
+Featureserver Query 1,200,OK,text,852882,323
+Get Map Service Info,200,OK,text,1747,53
+Get Legend,200,OK,text,903,17
+Mapserver Export Map 1,200,OK,bin,1319,42
+Mapserver Export Map 1,200,OK,bin,2379,49
+Mapserver Export Map 1,200,OK,bin,1315,28
+Mapserver Export Map 1,200,OK,bin,3369,40
+Featureserver Query 1,200,OK,text,851933,240
+Featureserver Query 1,200,OK,text,853887,236
+Featureserver Query 1,200,OK,text,35189,26
+Featureserver Query 1,200,OK,text,36948,21
+Get Map Service Info,200,OK,text,1747,57
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,1614,26
+Mapserver Export Map 1,200,OK,bin,5429,56
+Mapserver Export Map 1,200,OK,bin,7371,72
+Mapserver Export Map 1,200,OK,bin,16367,121
+Featureserver Query 1,200,OK,text,850795,215
+Featureserver Query 1,200,OK,text,626,3
+Featureserver Query 1,200,OK,text,323987,78
+Featureserver Query 1,200,OK,text,57284,19
+Get Map Service Info,200,OK,text,1747,21
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,4496,35
+Mapserver Export Map 1,200,OK,bin,4910,32
+Mapserver Export Map 1,200,OK,bin,5757,41
+Mapserver Export Map 1,200,OK,bin,1132,20
+Featureserver Query 1,200,OK,text,850245,270
+Featureserver Query 1,200,OK,text,850805,324
+Featureserver Query 1,200,OK,text,674170,278
+Featureserver Query 1,200,OK,text,855258,321
+Get Map Service Info,200,OK,text,1747,43
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,19769,155
+Mapserver Export Map 1,200,OK,bin,5377,52
+Mapserver Export Map 1,200,OK,bin,13345,179
+Mapserver Export Map 1,200,OK,bin,4773,51
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,626,5
+Featureserver Query 1,200,OK,text,84669,44
+Featureserver Query 1,200,OK,text,626,4
+Get Map Service Info,200,OK,text,1747,29
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,19507,160
+Mapserver Export Map 1,200,OK,bin,4333,48
+Mapserver Export Map 1,200,OK,bin,9334,85
+Mapserver Export Map 1,200,OK,bin,4325,48
+Featureserver Query 1,200,OK,text,855237,204
+Featureserver Query 1,200,OK,text,852859,306
+Featureserver Query 1,200,OK,text,20603,13
+Featureserver Query 1,200,OK,text,855551,339
+Get Map Service Info,200,OK,text,1747,39
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,2940,59
+Mapserver Export Map 1,200,OK,bin,6586,76
+Mapserver Export Map 1,200,OK,bin,16441,142
+Mapserver Export Map 1,200,OK,bin,3400,53
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,46420,21
+Featureserver Query 1,200,OK,text,851466,327
+Featureserver Query 1,200,OK,text,852330,351
+Get Map Service Info,200,OK,text,1747,35
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,2809,44
+Mapserver Export Map 1,200,OK,bin,6712,59
+Mapserver Export Map 1,200,OK,bin,6343,69
+Mapserver Export Map 1,200,OK,bin,6699,65
+Featureserver Query 1,200,OK,text,797013,221
+Featureserver Query 1,200,OK,text,209509,60
+Featureserver Query 1,200,OK,text,850276,271
+Featureserver Query 1,200,OK,text,853425,305
+Get Map Service Info,200,OK,text,1747,36
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,6563,64
+Mapserver Export Map 1,200,OK,bin,16339,127
+Mapserver Export Map 1,200,OK,bin,5152,48
+Mapserver Export Map 1,200,OK,bin,10306,134
+Featureserver Query 1,200,OK,text,626,5
+Featureserver Query 1,200,OK,text,854671,329
+Featureserver Query 1,200,OK,text,210621,67
+Featureserver Query 1,200,OK,text,533556,150
+Get Map Service Info,200,OK,text,1747,36
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,1026,26
+Mapserver Export Map 1,200,OK,bin,4095,34
+Mapserver Export Map 1,200,OK,bin,3194,29
+Mapserver Export Map 1,200,OK,bin,3318,33
+Featureserver Query 1,200,OK,text,850732,199
+Featureserver Query 1,200,OK,text,851302,252
+Featureserver Query 1,200,OK,text,27457,13
+Featureserver Query 1,200,OK,text,237117,76
+Get Map Service Info,200,OK,text,1747,33
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,2061,36
+Mapserver Export Map 1,200,OK,bin,1300,26
+Mapserver Export Map 1,200,OK,bin,2072,33
+Mapserver Export Map 1,200,OK,bin,7707,55
+Featureserver Query 1,200,OK,text,852415,272
+Featureserver Query 1,200,OK,text,849636,338
+Featureserver Query 1,200,OK,text,849824,337
+Featureserver Query 1,200,OK,text,850651,404
+Get Map Service Info,200,OK,text,1747,45
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,4533,75
+Mapserver Export Map 1,200,OK,bin,1984,42
+Mapserver Export Map 1,200,OK,bin,2669,37
+Mapserver Export Map 1,200,OK,bin,1297,36
+Featureserver Query 1,200,OK,text,564524,153
+Featureserver Query 1,200,OK,text,852800,283
+Featureserver Query 1,200,OK,text,849655,345
+Featureserver Query 1,200,OK,text,628850,134
+Get Map Service Info,200,OK,text,1747,27
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,7178,54
+Mapserver Export Map 1,200,OK,bin,1509,34
+Mapserver Export Map 1,200,OK,bin,4196,40
+Mapserver Export Map 1,200,OK,bin,2658,33
+Featureserver Query 1,200,OK,text,115217,32
+Featureserver Query 1,200,OK,text,106770,46
+Featureserver Query 1,200,OK,text,849915,334
+Featureserver Query 1,200,OK,text,847029,233
+Get Map Service Info,200,OK,text,1747,33
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,6824,76
+Mapserver Export Map 1,200,OK,bin,6694,52
+Mapserver Export Map 1,200,OK,bin,1154,24
+Mapserver Export Map 1,200,OK,bin,2170,41
+Featureserver Query 1,200,OK,text,858349,281
+Featureserver Query 1,200,OK,text,855266,311
+Featureserver Query 1,200,OK,text,851936,231
+Featureserver Query 1,200,OK,text,830090,243
+Get Map Service Info,200,OK,text,1747,37
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,3694,44
+Mapserver Export Map 1,200,OK,bin,4640,39
+Mapserver Export Map 1,200,OK,bin,7806,84
+Mapserver Export Map 1,200,OK,bin,2998,36
+Featureserver Query 1,200,OK,text,850598,353
+Featureserver Query 1,200,OK,text,851087,294
+Featureserver Query 1,200,OK,text,377629,127
+Featureserver Query 1,200,OK,text,856849,340
+Get Map Service Info,200,OK,text,1747,45
+Get Legend,200,OK,text,903,16
+Mapserver Export Map 1,200,OK,bin,9780,128
+Mapserver Export Map 1,200,OK,bin,1584,31
+Mapserver Export Map 1,200,OK,bin,3743,44
+Mapserver Export Map 1,200,OK,bin,3641,34
+Featureserver Query 1,200,OK,text,626,3
+Featureserver Query 1,200,OK,text,853178,197
+Featureserver Query 1,200,OK,text,850299,294
+Featureserver Query 1,200,OK,text,114497,30
+Get Map Service Info,200,OK,text,1747,23
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,5190,43
+Mapserver Export Map 1,200,OK,bin,1026,26
+Mapserver Export Map 1,200,OK,bin,5359,42
+Mapserver Export Map 1,200,OK,bin,7574,67
+Featureserver Query 1,200,OK,text,854624,310
+Featureserver Query 1,200,OK,text,557484,152
+Featureserver Query 1,200,OK,text,850692,207
+Featureserver Query 1,200,OK,text,789949,238
+Get Map Service Info,200,OK,text,1747,43
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,1026,35
+Mapserver Export Map 1,200,OK,bin,1126,32
+Mapserver Export Map 1,200,OK,bin,12457,124
+Mapserver Export Map 1,200,OK,bin,1683,30
+Featureserver Query 1,200,OK,text,31263,16
+Featureserver Query 1,200,OK,text,93824,32
+Featureserver Query 1,200,OK,text,6593,6
+Featureserver Query 1,200,OK,text,851537,373
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,4770,49
+Mapserver Export Map 1,200,OK,bin,1026,25
+Mapserver Export Map 1,200,OK,bin,2001,33
+Mapserver Export Map 1,200,OK,bin,3944,66
+Featureserver Query 1,200,OK,text,855869,438
+Featureserver Query 1,200,OK,text,853107,253
+Featureserver Query 1,200,OK,text,852929,297
+Featureserver Query 1,200,OK,text,47842,22
+Get Map Service Info,200,OK,text,1747,46
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,1026,36
+Mapserver Export Map 1,200,OK,bin,14652,136
+Mapserver Export Map 1,200,OK,bin,1103,24
+Mapserver Export Map 1,200,OK,bin,7716,57
+Featureserver Query 1,200,OK,text,109914,41
+Featureserver Query 1,200,OK,text,850613,345
+Featureserver Query 1,200,OK,text,56303,24
+Featureserver Query 1,200,OK,text,65556,25
+Get Map Service Info,200,OK,text,1747,33
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,1580,33
+Mapserver Export Map 1,200,OK,bin,1961,30
+Mapserver Export Map 1,200,OK,bin,18331,150
+Mapserver Export Map 1,200,OK,bin,18053,140
+Featureserver Query 1,200,OK,text,36047,12
+Featureserver Query 1,200,OK,text,626,3
+Featureserver Query 1,200,OK,text,685201,187
+Featureserver Query 1,200,OK,text,61222,24
+Get Map Service Info,200,OK,text,1747,28
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,2416,38
+Mapserver Export Map 1,200,OK,bin,4287,40
+Mapserver Export Map 1,200,OK,bin,4293,58
+Mapserver Export Map 1,200,OK,bin,1026,19
+Featureserver Query 1,200,OK,text,853359,214
+Featureserver Query 1,200,OK,text,3216,6
+Featureserver Query 1,200,OK,text,855283,275
+Featureserver Query 1,200,OK,text,193429,97
+Get Map Service Info,200,OK,text,1747,26
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,1134,26
+Mapserver Export Map 1,200,OK,bin,15435,129
+Mapserver Export Map 1,200,OK,bin,1125,27
+Mapserver Export Map 1,200,OK,bin,3428,49
+Featureserver Query 1,200,OK,text,421836,91
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,854242,238
+Featureserver Query 1,200,OK,text,381222,134
+Get Map Service Info,200,OK,text,1747,38
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,1976,29
+Mapserver Export Map 1,200,OK,bin,5763,80
+Mapserver Export Map 1,200,OK,bin,2451,44
+Mapserver Export Map 1,200,OK,bin,13250,144
+Featureserver Query 1,200,OK,text,73806,33
+Featureserver Query 1,200,OK,text,4439,9
+Featureserver Query 1,200,OK,text,851545,357
+Featureserver Query 1,200,OK,text,854597,313
+Get Map Service Info,200,OK,text,1747,46
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,1433,33
+Mapserver Export Map 1,200,OK,bin,1472,33
+Mapserver Export Map 1,200,OK,bin,1840,31
+Mapserver Export Map 1,200,OK,bin,1139,31
+Featureserver Query 1,200,OK,text,243249,68
+Featureserver Query 1,200,OK,text,848565,189
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,852217,292
+Get Map Service Info,200,OK,text,1747,28
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,1116,25
+Mapserver Export Map 1,200,OK,bin,3481,48
+Mapserver Export Map 1,200,OK,bin,8276,68
+Mapserver Export Map 1,200,OK,bin,2363,32
+Featureserver Query 1,200,OK,text,7470,8
+Featureserver Query 1,200,OK,text,854786,291
+Featureserver Query 1,200,OK,text,852570,314
+Featureserver Query 1,200,OK,text,626,5
+Get Map Service Info,200,OK,text,1747,35
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,19267,178
+Mapserver Export Map 1,200,OK,bin,2474,33
+Mapserver Export Map 1,200,OK,bin,10713,131
+Mapserver Export Map 1,200,OK,bin,1731,36
+Featureserver Query 1,200,OK,text,852234,334
+Featureserver Query 1,200,OK,text,852616,303
+Featureserver Query 1,200,OK,text,851186,271
+Featureserver Query 1,200,OK,text,705858,243
+Get Map Service Info,200,OK,text,1747,28
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,3997,41
+Mapserver Export Map 1,200,OK,bin,1777,27
+Mapserver Export Map 1,200,OK,bin,3221,32
+Mapserver Export Map 1,200,OK,bin,10614,75
+Featureserver Query 1,200,OK,text,626,3
+Featureserver Query 1,200,OK,text,405683,126
+Featureserver Query 1,200,OK,text,852813,231
+Featureserver Query 1,200,OK,text,390428,107
+Get Map Service Info,200,OK,text,1747,31
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,1128,24
+Mapserver Export Map 1,200,OK,bin,11562,130
+Mapserver Export Map 1,200,OK,bin,3814,71
+Mapserver Export Map 1,200,OK,bin,1026,34
+Featureserver Query 1,200,OK,text,626,5
+Featureserver Query 1,200,OK,text,855708,338
+Featureserver Query 1,200,OK,text,851204,327
+Featureserver Query 1,200,OK,text,25950,27
+Get Map Service Info,200,OK,text,1747,41
+Get Legend,200,OK,text,903,16
+Mapserver Export Map 1,200,OK,bin,4044,60
+Mapserver Export Map 1,200,OK,bin,3307,52
+Mapserver Export Map 1,200,OK,bin,5991,55
+Mapserver Export Map 1,200,OK,bin,1919,31
+Featureserver Query 1,200,OK,text,852212,302
+Featureserver Query 1,200,OK,text,850692,320
+Featureserver Query 1,200,OK,text,594190,191
+Featureserver Query 1,200,OK,text,456245,148
+Get Map Service Info,200,OK,text,1747,28
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,4200,43
+Mapserver Export Map 1,200,OK,bin,3242,37
+Mapserver Export Map 1,200,OK,bin,1156,22
+Mapserver Export Map 1,200,OK,bin,13709,106
+Featureserver Query 1,200,OK,text,3947,7
+Featureserver Query 1,200,OK,text,134665,54
+Featureserver Query 1,200,OK,text,66830,25
+Featureserver Query 1,200,OK,text,33339,16
+Get Map Service Info,200,OK,text,1747,28
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,3979,54
+Mapserver Export Map 1,200,OK,bin,1182,25
+Mapserver Export Map 1,200,OK,bin,7418,64
+Mapserver Export Map 1,200,OK,bin,11742,72
+Featureserver Query 1,200,OK,text,849541,345
+Featureserver Query 1,200,OK,text,654344,173
+Featureserver Query 1,200,OK,text,855789,266
+Featureserver Query 1,200,OK,text,6899,6
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,5053,42
+Mapserver Export Map 1,200,OK,bin,1136,23
+Mapserver Export Map 1,200,OK,bin,4669,45
+Mapserver Export Map 1,200,OK,bin,9138,79
+Featureserver Query 1,200,OK,text,146501,35
+Featureserver Query 1,200,OK,text,851297,260
+Featureserver Query 1,200,OK,text,32924,18
+Featureserver Query 1,200,OK,text,850951,351
+Get Map Service Info,200,OK,text,1747,37
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,4932,113
+Mapserver Export Map 1,200,OK,bin,2399,36
+Mapserver Export Map 1,200,OK,bin,9826,84
+Mapserver Export Map 1,200,OK,bin,4859,45
+Featureserver Query 1,200,OK,text,410836,126
+Featureserver Query 1,200,OK,text,850293,302
+Featureserver Query 1,200,OK,text,84246,30
+Featureserver Query 1,200,OK,text,73171,37
+Get Map Service Info,200,OK,text,1747,33
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,5337,47
+Mapserver Export Map 1,200,OK,bin,1779,26
+Mapserver Export Map 1,200,OK,bin,8093,66
+Mapserver Export Map 1,200,OK,bin,11121,97
+Featureserver Query 1,200,OK,text,42631,15
+Featureserver Query 1,200,OK,text,23467,13
+Featureserver Query 1,200,OK,text,73198,21
+Featureserver Query 1,200,OK,text,65683,16
+Get Map Service Info,200,OK,text,1747,25
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,20118,155
+Mapserver Export Map 1,200,OK,bin,3221,33
+Mapserver Export Map 1,200,OK,bin,1419,23
+Mapserver Export Map 1,200,OK,bin,9715,98
+Featureserver Query 1,200,OK,text,40673,13
+Featureserver Query 1,200,OK,text,328573,81
+Featureserver Query 1,200,OK,text,242516,60
+Featureserver Query 1,200,OK,text,850352,274
+Get Map Service Info,200,OK,text,1747,36
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,5403,66
+Mapserver Export Map 1,200,OK,bin,16879,112
+Mapserver Export Map 1,200,OK,bin,1742,35
+Mapserver Export Map 1,200,OK,bin,10955,155
+Featureserver Query 1,200,OK,text,851552,322
+Featureserver Query 1,200,OK,text,564301,151
+Featureserver Query 1,200,OK,text,850692,204
+Featureserver Query 1,200,OK,text,236667,78
+Get Map Service Info,200,OK,text,1747,26
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,3506,38
+Mapserver Export Map 1,200,OK,bin,1026,20
+Mapserver Export Map 1,200,OK,bin,6428,51
+Mapserver Export Map 1,200,OK,bin,4411,45
+Featureserver Query 1,200,OK,text,856093,214
+Featureserver Query 1,200,OK,text,856808,280
+Featureserver Query 1,200,OK,text,199930,57
+Featureserver Query 1,200,OK,text,850788,360
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,2696,56
+Mapserver Export Map 1,200,OK,bin,11451,98
+Mapserver Export Map 1,200,OK,bin,11870,106
+Mapserver Export Map 1,200,OK,bin,1026,40
+Featureserver Query 1,200,OK,text,544764,200
+Featureserver Query 1,200,OK,text,854100,234
+Featureserver Query 1,200,OK,text,576677,130
+Featureserver Query 1,200,OK,text,851702,249
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,21
+Mapserver Export Map 1,200,OK,bin,20157,171
+Mapserver Export Map 1,200,OK,bin,12097,97
+Mapserver Export Map 1,200,OK,bin,6936,85
+Mapserver Export Map 1,200,OK,bin,19234,159
+Featureserver Query 1,200,OK,text,853061,347
+Featureserver Query 1,200,OK,text,7078,9
+Featureserver Query 1,200,OK,text,6593,8
+Featureserver Query 1,200,OK,text,200770,85
+Get Map Service Info,200,OK,text,1747,38
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,1122,21
+Mapserver Export Map 1,200,OK,bin,5150,50
+Mapserver Export Map 1,200,OK,bin,8432,73
+Mapserver Export Map 1,200,OK,bin,3085,33
+Featureserver Query 1,200,OK,text,852929,228
+Featureserver Query 1,200,OK,text,855101,300
+Featureserver Query 1,200,OK,text,852560,303
+Featureserver Query 1,200,OK,text,626,4
+Get Map Service Info,200,OK,text,1747,36
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,13955,147
+Mapserver Export Map 1,200,OK,bin,8357,81
+Mapserver Export Map 1,200,OK,bin,12927,100
+Mapserver Export Map 1,200,OK,bin,1363,51
+Featureserver Query 1,200,OK,text,5989,9
+Featureserver Query 1,200,OK,text,852122,340
+Featureserver Query 1,200,OK,text,277487,105
+Featureserver Query 1,200,OK,text,516047,125
+Get Map Service Info,200,OK,text,1747,33
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,4235,56
+Mapserver Export Map 1,200,OK,bin,1026,24
+Mapserver Export Map 1,200,OK,bin,1026,21
+Mapserver Export Map 1,200,OK,bin,17784,149
+Featureserver Query 1,200,OK,text,850648,272
+Featureserver Query 1,200,OK,text,433459,112
+Featureserver Query 1,200,OK,text,12977,9
+Featureserver Query 1,200,OK,text,853714,304
+Get Map Service Info,200,OK,text,1747,31
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,16437,226
+Mapserver Export Map 1,200,OK,bin,14922,157
+Mapserver Export Map 1,200,OK,bin,1026,24
+Mapserver Export Map 1,200,OK,bin,4270,69
+Featureserver Query 1,200,OK,text,850653,348
+Featureserver Query 1,200,OK,text,850561,353
+Featureserver Query 1,200,OK,text,851080,362
+Featureserver Query 1,200,OK,text,12977,12
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,7
+Mapserver Export Map 1,200,OK,bin,6694,45
+Mapserver Export Map 1,200,OK,bin,4946,66
+Mapserver Export Map 1,200,OK,bin,2381,32
+Mapserver Export Map 1,200,OK,bin,1564,37
+Featureserver Query 1,200,OK,text,851127,324
+Featureserver Query 1,200,OK,text,852252,259
+Featureserver Query 1,200,OK,text,848924,312
+Featureserver Query 1,200,OK,text,850575,227
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,2140,36
+Mapserver Export Map 1,200,OK,bin,15830,121
+Mapserver Export Map 1,200,OK,bin,1573,33
+Mapserver Export Map 1,200,OK,bin,8377,65
+Featureserver Query 1,200,OK,text,54512,39
+Featureserver Query 1,200,OK,text,64250,27
+Featureserver Query 1,200,OK,text,3947,6
+Featureserver Query 1,200,OK,text,853615,333
+Get Map Service Info,200,OK,text,1747,48
+Get Legend,200,OK,text,903,15
+Mapserver Export Map 1,200,OK,bin,5200,79
+Mapserver Export Map 1,200,OK,bin,18277,157
+Mapserver Export Map 1,200,OK,bin,1480,48
+Mapserver Export Map 1,200,OK,bin,8680,85
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,67615,40
+Featureserver Query 1,200,OK,text,626,5
+Featureserver Query 1,200,OK,text,851923,343
+Get Map Service Info,200,OK,text,1747,31
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,1750,38
+Mapserver Export Map 1,200,OK,bin,1026,33
+Mapserver Export Map 1,200,OK,bin,1217,28
+Mapserver Export Map 1,200,OK,bin,3411,43
+Featureserver Query 1,200,OK,text,849305,333
+Featureserver Query 1,200,OK,text,852121,291
+Featureserver Query 1,200,OK,text,36047,22
+Featureserver Query 1,200,OK,text,311765,99
+Get Map Service Info,200,OK,text,1747,38
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,4759,65
+Mapserver Export Map 1,200,OK,bin,8708,82
+Mapserver Export Map 1,200,OK,bin,10371,96
+Mapserver Export Map 1,200,OK,bin,5246,46
+Featureserver Query 1,200,OK,text,851173,286
+Featureserver Query 1,200,OK,text,855601,305
+Featureserver Query 1,200,OK,text,850761,222
+Featureserver Query 1,200,OK,text,16214,12
+Get Map Service Info,200,OK,text,1747,29
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,1168,24
+Mapserver Export Map 1,200,OK,bin,16630,146
+Mapserver Export Map 1,200,OK,bin,5252,67
+Mapserver Export Map 1,200,OK,bin,1026,28
+Featureserver Query 1,200,OK,text,30536,15
+Featureserver Query 1,200,OK,text,852217,313
+Featureserver Query 1,200,OK,text,851188,322
+Featureserver Query 1,200,OK,text,110684,45
+Get Map Service Info,200,OK,text,1747,27
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,1189,24
+Mapserver Export Map 1,200,OK,bin,3626,34
+Mapserver Export Map 1,200,OK,bin,10004,86
+Mapserver Export Map 1,200,OK,bin,12671,99
+Featureserver Query 1,200,OK,text,137747,55
+Featureserver Query 1,200,OK,text,97575,34
+Featureserver Query 1,200,OK,text,853336,236
+Featureserver Query 1,200,OK,text,681500,190
+Get Map Service Info,200,OK,text,1747,25
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,1595,25
+Mapserver Export Map 1,200,OK,bin,2511,29
+Mapserver Export Map 1,200,OK,bin,4818,42
+Mapserver Export Map 1,200,OK,bin,12115,89
+Featureserver Query 1,200,OK,text,850984,274
+Featureserver Query 1,200,OK,text,850411,392
+Featureserver Query 1,200,OK,text,852810,265
+Featureserver Query 1,200,OK,text,852875,335
+Get Map Service Info,200,OK,text,1747,46
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,18187,157
+Mapserver Export Map 1,200,OK,bin,2954,37
+Mapserver Export Map 1,200,OK,bin,2777,53
+Mapserver Export Map 1,200,OK,bin,10026,88
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,91196,41
+Featureserver Query 1,200,OK,text,509486,181
+Featureserver Query 1,200,OK,text,584243,163
+Get Map Service Info,200,OK,text,1747,25
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,4603,43
+Mapserver Export Map 1,200,OK,bin,1799,24
+Mapserver Export Map 1,200,OK,bin,8216,59
+Mapserver Export Map 1,200,OK,bin,5796,66
+Featureserver Query 1,200,OK,text,427966,154
+Featureserver Query 1,200,OK,text,851426,325
+Featureserver Query 1,200,OK,text,850013,381
+Featureserver Query 1,200,OK,text,33494,17
+Get Map Service Info,200,OK,text,1747,49
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,16519,147
+Mapserver Export Map 1,200,OK,bin,5609,61
+Mapserver Export Map 1,200,OK,bin,1257,32
+Mapserver Export Map 1,200,OK,bin,7138,68
+Featureserver Query 1,200,OK,text,275157,78
+Featureserver Query 1,200,OK,text,412273,100
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,626,4
+Get Map Service Info,200,OK,text,1747,25
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,1890,27
+Mapserver Export Map 1,200,OK,bin,1026,18
+Mapserver Export Map 1,200,OK,bin,5452,39
+Mapserver Export Map 1,200,OK,bin,6049,44
+Featureserver Query 1,200,OK,text,12977,8
+Featureserver Query 1,200,OK,text,201909,59
+Featureserver Query 1,200,OK,text,6907,5
+Featureserver Query 1,200,OK,text,46713,13
+Get Map Service Info,200,OK,text,1747,26
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,7311,61
+Mapserver Export Map 1,200,OK,bin,1789,27
+Mapserver Export Map 1,200,OK,bin,1026,24
+Mapserver Export Map 1,200,OK,bin,4410,42
+Featureserver Query 1,200,OK,text,858607,190
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,83673,31
+Featureserver Query 1,200,OK,text,421207,113
+Get Map Service Info,200,OK,text,1747,36
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,1160,34
+Mapserver Export Map 1,200,OK,bin,3311,37
+Mapserver Export Map 1,200,OK,bin,6449,54
+Mapserver Export Map 1,200,OK,bin,13332,127
+Featureserver Query 1,200,OK,text,850787,329
+Featureserver Query 1,200,OK,text,626,6
+Featureserver Query 1,200,OK,text,851662,313
+Featureserver Query 1,200,OK,text,851815,352
+Get Map Service Info,200,OK,text,1747,37
+Get Legend,200,OK,text,903,15
+Mapserver Export Map 1,200,OK,bin,10014,83
+Mapserver Export Map 1,200,OK,bin,1410,30
+Mapserver Export Map 1,200,OK,bin,5512,67
+Mapserver Export Map 1,200,OK,bin,10465,71
+Featureserver Query 1,200,OK,text,78272,37
+Featureserver Query 1,200,OK,text,853948,343
+Featureserver Query 1,200,OK,text,814137,271
+Featureserver Query 1,200,OK,text,855060,334
+Get Map Service Info,200,OK,text,1747,24
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,1265,27
+Mapserver Export Map 1,200,OK,bin,9742,81
+Mapserver Export Map 1,200,OK,bin,4800,35
+Mapserver Export Map 1,200,OK,bin,3368,33
+Featureserver Query 1,200,OK,text,407686,120
+Featureserver Query 1,200,OK,text,485093,190
+Featureserver Query 1,200,OK,text,851502,431
+Featureserver Query 1,200,OK,text,198377,61
+Get Map Service Info,200,OK,text,1747,32
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,10583,96
+Mapserver Export Map 1,200,OK,bin,9262,91
+Mapserver Export Map 1,200,OK,bin,12619,98
+Mapserver Export Map 1,200,OK,bin,1406,21
+Featureserver Query 1,200,OK,text,851969,287
+Featureserver Query 1,200,OK,text,652246,186
+Featureserver Query 1,200,OK,text,12977,11
+Featureserver Query 1,200,OK,text,265219,91
+Get Map Service Info,200,OK,text,1747,39
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,4424,76
+Mapserver Export Map 1,200,OK,bin,11682,100
+Mapserver Export Map 1,200,OK,bin,5111,85
+Mapserver Export Map 1,200,OK,bin,6943,108
+Featureserver Query 1,200,OK,text,475526,171
+Featureserver Query 1,200,OK,text,852058,269
+Featureserver Query 1,200,OK,text,4190,5
+Featureserver Query 1,200,OK,text,49309,39
+Get Map Service Info,200,OK,text,1747,28
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,16484,132
+Mapserver Export Map 1,200,OK,bin,3186,68
+Mapserver Export Map 1,200,OK,bin,18482,176
+Mapserver Export Map 1,200,OK,bin,1085,39
+Featureserver Query 1,200,OK,text,852648,353
+Featureserver Query 1,200,OK,text,850631,387
+Featureserver Query 1,200,OK,text,851245,293
+Featureserver Query 1,200,OK,text,850004,241
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,9718,76
+Mapserver Export Map 1,200,OK,bin,1795,48
+Mapserver Export Map 1,200,OK,bin,1606,40
+Mapserver Export Map 1,200,OK,bin,15916,144
+Featureserver Query 1,200,OK,text,855532,345
+Featureserver Query 1,200,OK,text,74550,40
+Featureserver Query 1,200,OK,text,443257,122
+Featureserver Query 1,200,OK,text,218113,63
+Get Map Service Info,200,OK,text,1747,33
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,4455,47
+Mapserver Export Map 1,200,OK,bin,6056,52
+Mapserver Export Map 1,200,OK,bin,14731,119
+Mapserver Export Map 1,200,OK,bin,1218,27
+Featureserver Query 1,200,OK,text,3470,7
+Featureserver Query 1,200,OK,text,193219,46
+Featureserver Query 1,200,OK,text,57987,19
+Featureserver Query 1,200,OK,text,852117,336
+Get Map Service Info,200,OK,text,1747,47
+Get Legend,200,OK,text,903,17
+Mapserver Export Map 1,200,OK,bin,1026,43
+Mapserver Export Map 1,200,OK,bin,1975,46
+Mapserver Export Map 1,200,OK,bin,3060,48
+Mapserver Export Map 1,200,OK,bin,16155,141
+Featureserver Query 1,200,OK,text,516716,144
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,104466,45
+Featureserver Query 1,200,OK,text,851553,253
+Get Map Service Info,200,OK,text,1747,28
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,16310,156
+Mapserver Export Map 1,200,OK,bin,17311,217
+Mapserver Export Map 1,200,OK,bin,3903,61
+Mapserver Export Map 1,200,OK,bin,14935,159
+Featureserver Query 1,200,OK,text,851105,313
+Featureserver Query 1,200,OK,text,282513,61
+Featureserver Query 1,200,OK,text,852660,254
+Featureserver Query 1,200,OK,text,851547,319
+Get Map Service Info,200,OK,text,1747,30
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,1233,31
+Mapserver Export Map 1,200,OK,bin,2655,34
+Mapserver Export Map 1,200,OK,bin,1450,28
+Mapserver Export Map 1,200,OK,bin,1698,26
+Featureserver Query 1,200,OK,text,850715,319
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,6593,8
+Featureserver Query 1,200,OK,text,850534,330
+Get Map Service Info,200,OK,text,1747,41
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,1221,34
+Mapserver Export Map 1,200,OK,bin,1026,22
+Mapserver Export Map 1,200,OK,bin,5195,46
+Mapserver Export Map 1,200,OK,bin,8002,65
+Featureserver Query 1,200,OK,text,14183,12
+Featureserver Query 1,200,OK,text,851299,273
+Featureserver Query 1,200,OK,text,645048,203
+Featureserver Query 1,200,OK,text,852363,234
+Get Map Service Info,200,OK,text,1747,50
+Get Legend,200,OK,text,903,15
+Mapserver Export Map 1,200,OK,bin,7189,91
+Mapserver Export Map 1,200,OK,bin,18558,137
+Mapserver Export Map 1,200,OK,bin,1582,26
+Mapserver Export Map 1,200,OK,bin,3905,65
+Featureserver Query 1,200,OK,text,29677,19
+Featureserver Query 1,200,OK,text,21574,20
+Featureserver Query 1,200,OK,text,852064,287
+Featureserver Query 1,200,OK,text,853194,203
+Get Map Service Info,200,OK,text,1747,39
+Get Legend,200,OK,text,903,12
+Mapserver Export Map 1,200,OK,bin,6342,64
+Mapserver Export Map 1,200,OK,bin,9580,83
+Mapserver Export Map 1,200,OK,bin,6549,54
+Mapserver Export Map 1,200,OK,bin,1779,28
+Featureserver Query 1,200,OK,text,851519,358
+Featureserver Query 1,200,OK,text,3947,7
+Featureserver Query 1,200,OK,text,850494,273
+Featureserver Query 1,200,OK,text,853161,289
+Get Map Service Info,200,OK,text,1747,27
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,1026,22
+Mapserver Export Map 1,200,OK,bin,18019,176
+Mapserver Export Map 1,200,OK,bin,4868,44
+Mapserver Export Map 1,200,OK,bin,3998,57
+Featureserver Query 1,200,OK,text,851843,260
+Featureserver Query 1,200,OK,text,647019,189
+Featureserver Query 1,200,OK,text,734433,213
+Featureserver Query 1,200,OK,text,341162,117
+Get Map Service Info,200,OK,text,1747,27
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,2801,30
+Mapserver Export Map 1,200,OK,bin,5815,49
+Mapserver Export Map 1,200,OK,bin,4516,65
+Mapserver Export Map 1,200,OK,bin,6223,46
+Featureserver Query 1,200,OK,text,56504,20
+Featureserver Query 1,200,OK,text,13854,9
+Featureserver Query 1,200,OK,text,492889,97
+Featureserver Query 1,200,OK,text,851870,242
+Get Map Service Info,200,OK,text,1747,30
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,11094,84
+Mapserver Export Map 1,200,OK,bin,3023,29
+Mapserver Export Map 1,200,OK,bin,1852,27
+Mapserver Export Map 1,200,OK,bin,1810,29
+Featureserver Query 1,200,OK,text,626,3
+Featureserver Query 1,200,OK,text,499521,143
+Featureserver Query 1,200,OK,text,30305,21
+Featureserver Query 1,200,OK,text,851252,245
+Get Map Service Info,200,OK,text,1747,23
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,1279,26
+Mapserver Export Map 1,200,OK,bin,10609,112
+Mapserver Export Map 1,200,OK,bin,2789,27
+Mapserver Export Map 1,200,OK,bin,2380,39
+Featureserver Query 1,200,OK,text,849513,333
+Featureserver Query 1,200,OK,text,626,8
+Featureserver Query 1,200,OK,text,42923,15
+Featureserver Query 1,200,OK,text,852818,245
+Get Map Service Info,200,OK,text,1747,35
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,4517,59
+Mapserver Export Map 1,200,OK,bin,1891,32
+Mapserver Export Map 1,200,OK,bin,18408,154
+Mapserver Export Map 1,200,OK,bin,1026,23
+Featureserver Query 1,200,OK,text,856769,306
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,852572,311
+Featureserver Query 1,200,OK,text,22579,15
+Get Map Service Info,200,OK,text,1747,36
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,2062,27
+Mapserver Export Map 1,200,OK,bin,1152,24
+Mapserver Export Map 1,200,OK,bin,8478,70
+Mapserver Export Map 1,200,OK,bin,1026,25
+Featureserver Query 1,200,OK,text,204410,49
+Featureserver Query 1,200,OK,text,90977,43
+Featureserver Query 1,200,OK,text,586492,177
+Featureserver Query 1,200,OK,text,851232,339
+Get Map Service Info,200,OK,text,1747,37
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,3743,41
+Mapserver Export Map 1,200,OK,bin,2737,53
+Mapserver Export Map 1,200,OK,bin,16154,159
+Mapserver Export Map 1,200,OK,bin,4515,60
+Featureserver Query 1,200,OK,text,851489,503
+Featureserver Query 1,200,OK,text,852068,253
+Featureserver Query 1,200,OK,text,849413,316
+Featureserver Query 1,200,OK,text,47655,22
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,2096,42
+Mapserver Export Map 1,200,OK,bin,2360,39
+Mapserver Export Map 1,200,OK,bin,3152,41
+Mapserver Export Map 1,200,OK,bin,1688,30
+Featureserver Query 1,200,OK,text,97965,35
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,854115,267
+Featureserver Query 1,200,OK,text,105031,37
+Get Map Service Info,200,OK,text,1747,35
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,5148,58
+Mapserver Export Map 1,200,OK,bin,15075,113
+Mapserver Export Map 1,200,OK,bin,3288,75
+Mapserver Export Map 1,200,OK,bin,1153,32
+Featureserver Query 1,200,OK,text,531390,142
+Featureserver Query 1,200,OK,text,86382,26
+Featureserver Query 1,200,OK,text,850331,263
+Featureserver Query 1,200,OK,text,855159,366
+Get Map Service Info,200,OK,text,1747,35
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,6211,50
+Mapserver Export Map 1,200,OK,bin,1247,23
+Mapserver Export Map 1,200,OK,bin,10700,88
+Mapserver Export Map 1,200,OK,bin,1026,26
+Featureserver Query 1,200,OK,text,57297,19
+Featureserver Query 1,200,OK,text,17071,9
+Featureserver Query 1,200,OK,text,850537,327
+Featureserver Query 1,200,OK,text,25029,12
+Get Map Service Info,200,OK,text,1747,27
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,1026,26
+Mapserver Export Map 1,200,OK,bin,1506,24
+Mapserver Export Map 1,200,OK,bin,8035,73
+Mapserver Export Map 1,200,OK,bin,5541,53
+Featureserver Query 1,200,OK,text,855170,228
+Featureserver Query 1,200,OK,text,12977,8
+Featureserver Query 1,200,OK,text,855265,292
+Featureserver Query 1,200,OK,text,6907,7
+Get Map Service Info,200,OK,text,1747,30
+Get Legend,200,OK,text,903,14
+Mapserver Export Map 1,200,OK,bin,1400,43
+Mapserver Export Map 1,200,OK,bin,2589,42
+Mapserver Export Map 1,200,OK,bin,8973,81
+Mapserver Export Map 1,200,OK,bin,1950,53
+Featureserver Query 1,200,OK,text,852540,338
+Featureserver Query 1,200,OK,text,84314,32
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,696325,208
+Get Map Service Info,200,OK,text,1747,28
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,4856,60
+Mapserver Export Map 1,200,OK,bin,1026,27
+Mapserver Export Map 1,200,OK,bin,19555,227
+Mapserver Export Map 1,200,OK,bin,3283,39
+Featureserver Query 1,200,OK,text,220444,95
+Featureserver Query 1,200,OK,text,826542,214
+Featureserver Query 1,200,OK,text,850604,311
+Featureserver Query 1,200,OK,text,81787,26
+Get Map Service Info,200,OK,text,1747,34
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,5268,57
+Mapserver Export Map 1,200,OK,bin,15280,115
+Mapserver Export Map 1,200,OK,bin,7010,53
+Mapserver Export Map 1,200,OK,bin,1148,27
+Featureserver Query 1,200,OK,text,636534,132
+Featureserver Query 1,200,OK,text,626,4
+Featureserver Query 1,200,OK,text,851420,268
+Featureserver Query 1,200,OK,text,850337,280
+Get Map Service Info,200,OK,text,1747,31
+Get Legend,200,OK,text,903,9
+Mapserver Export Map 1,200,OK,bin,3115,41
+Mapserver Export Map 1,200,OK,bin,1772,40
+Mapserver Export Map 1,200,OK,bin,16375,180
+Mapserver Export Map 1,200,OK,bin,5186,85
+Featureserver Query 1,200,OK,text,208257,70
+Featureserver Query 1,200,OK,text,851831,228
+Featureserver Query 1,200,OK,text,269816,70
+Featureserver Query 1,200,OK,text,852534,335
+Get Map Service Info,200,OK,text,1747,36
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,1979,39
+Mapserver Export Map 1,200,OK,bin,1286,32
+Mapserver Export Map 1,200,OK,bin,9280,93
+Mapserver Export Map 1,200,OK,bin,1026,24
+Featureserver Query 1,200,OK,text,850297,382
+Featureserver Query 1,200,OK,text,851522,284
+Featureserver Query 1,200,OK,text,852860,307
+Featureserver Query 1,200,OK,text,849680,268
+Get Map Service Info,200,OK,text,1747,25
+Get Legend,200,OK,text,903,11
+Mapserver Export Map 1,200,OK,bin,2002,25
+Mapserver Export Map 1,200,OK,bin,1026,20
+Mapserver Export Map 1,200,OK,bin,4770,62
+Mapserver Export Map 1,200,OK,bin,1510,34
+Featureserver Query 1,200,OK,text,267891,80
+Featureserver Query 1,200,OK,text,626,3
+Featureserver Query 1,200,OK,text,23730,16
+Featureserver Query 1,200,OK,text,626,4
+Get Map Service Info,200,OK,text,1747,33
+Get Legend,200,OK,text,903,10
+Mapserver Export Map 1,200,OK,bin,3183,34
+Mapserver Export Map 1,200,OK,bin,1026,35
+Mapserver Export Map 1,200,OK,bin,2535,26
+Mapserver Export Map 1,200,OK,bin,10090,76
+Featureserver Query 1,200,OK,text,142428,45
+Featureserver Query 1,200,OK,text,369712,106
+Featureserver Query 1,200,OK,text,601461,168
+Featureserver Query 1,200,OK,text,80706,22
+Get Map Service Info,200,OK,text,1747,25
+Get Legend,200,OK,text,903,8
+Mapserver Export Map 1,200,OK,bin,1156,20
+Mapserver Export Map 1,200,OK,bin,8267,61
+Mapserver Export Map 1,200,OK,bin,2619,29
+Mapserver Export Map 1,200,OK,bin,9209,77
+Featureserver Query 1,200,OK,text,13592,12
+Featureserver Query 1,200,OK,text,852514,309
+Featureserver Query 1,200,OK,text,193547,55
+Featureserver Query 1,200,OK,text,851513,295
+Get Map Service Info,200,OK,text,1747,54
+Get Legend,200,OK,text,903,13
+Mapserver Export Map 1,200,OK,bin,15201,113
+Mapserver Export Map 1,200,OK,bin,1460,29
+Mapserver Export Map 1,200,OK,bin,3573,53
+Mapserver Export Map 1,200,OK,bin,1026,29
+Featureserver Query 1,200,OK,text,852376,385
+Featureserver Query 1,200,OK,text,853141,384
+Featureserver Query 1,200,OK,text,630075,153
+Featureserver Query 1,200,OK,text,476020,116
+Get Map Service Info,200,OK,text,1674,814
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1118,113
+Mapserver Export Map 1,200,OK,bin,1219,117
+Mapserver Export Map 1,200,OK,bin,1121,95
+Mapserver Export Map 1,200,OK,bin,1035,83
+Featureserver Query 1,200,OK,text,252897,117
+Featureserver Query 1,200,OK,text,37946,82
+Featureserver Query 1,200,OK,text,250795,109
+Featureserver Query 1,200,OK,text,495530,149
+Get Map Service Info,200,OK,text,1674,484
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1118,111
+Mapserver Export Map 1,200,OK,bin,1219,112
+Mapserver Export Map 1,200,OK,bin,1121,97
+Mapserver Export Map 1,200,OK,bin,1035,82
+Featureserver Query 1,200,OK,text,252897,108
+Featureserver Query 1,200,OK,text,37946,86
+Featureserver Query 1,200,OK,text,250795,110
+Featureserver Query 1,200,OK,text,495530,149
+Get Map Service Info,200,OK,text,1674,231
+Get Legend,200,OK,text,912,74
+Mapserver Export Map 1,200,OK,bin,1058,85
+Mapserver Export Map 1,200,OK,bin,1272,154
+Mapserver Export Map 1,200,OK,bin,1066,87
+Mapserver Export Map 1,200,OK,bin,1141,106
+Featureserver Query 1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,text,1889,150
+Get Map Service Info,200,OK,text,1674,402
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1118,113
+Mapserver Export Map 1,200,OK,bin,1219,121
+Mapserver Export Map 1,200,OK,bin,1121,93
+Mapserver Export Map 1,200,OK,bin,1035,90
+Featureserver Query 1,200,OK,text,252897,115
+Featureserver Query 1,200,OK,text,37946,75
+Featureserver Query 1,200,OK,text,250795,114
+Featureserver Query 1,200,OK,text,495530,143
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,79
+Mapserver Export Map 1,200,OK,bin,1058,88
+Mapserver Export Map 1,200,OK,bin,1272,302
+Mapserver Export Map 1,200,OK,bin,1066,85
+Mapserver Export Map 1,200,OK,bin,1141,95
+Featureserver Query 1,200,OK,text,462900,137
+Featureserver Query 1,200,OK,text,79340,82
+Featureserver Query 1,200,OK,text,60182,77
+Featureserver Query 1,200,OK,text,605,71
+Get Map Service Info,200,OK,text,1674,91
+Get Legend,200,OK,text,912,75
+Mapserver Export Map 1,200,OK,bin,1114,90
+Mapserver Export Map 1,200,OK,bin,1180,135
+Mapserver Export Map 1,200,OK,bin,1171,100
+Mapserver Export Map 1,200,OK,bin,1207,131
+Featureserver Query 1,200,OK,text,605,71
+Featureserver Query 1,200,OK,text,67710,81
+Featureserver Query 1,200,OK,text,115146,86
+Featureserver Query 1,200,OK,text,1046244,365
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,69
+Mapserver Export Map 1,200,OK,bin,1161,103
+Mapserver Export Map 1,200,OK,bin,1059,86
+Mapserver Export Map 1,200,OK,bin,1271,182
+Mapserver Export Map 1,200,OK,bin,1118,92
+Featureserver Query 1,200,OK,text,501709,145
+Featureserver Query 1,200,OK,text,91744,216
+Featureserver Query 1,200,OK,text,140107,94
+Featureserver Query 1,200,OK,text,605,70
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1048,86
+Mapserver Export Map 1,200,OK,bin,1182,129
+Mapserver Export Map 1,200,OK,bin,1182,104
+Mapserver Export Map 1,200,OK,bin,1035,82
+Featureserver Query 1,200,OK,text,605,66
+Featureserver Query 1,200,OK,text,112724,87
+Featureserver Query 1,200,OK,text,605,65
+Featureserver Query 1,200,OK,text,473605,137
+Get Map Service Info,200,OK,text,1674,86
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1175,120
+Mapserver Export Map 1,200,OK,bin,1032,81
+Mapserver Export Map 1,200,OK,bin,1053,83
+Mapserver Export Map 1,200,OK,bin,1026,214
+Featureserver Query 1,200,OK,text,78213,82
+Featureserver Query 1,200,OK,text,323081,118
+Featureserver Query 1,200,OK,text,94821,86
+Featureserver Query 1,200,OK,text,173676,98
+Get Map Service Info,200,OK,text,1674,88
+Get Legend,200,OK,text,912,105
+Mapserver Export Map 1,200,OK,bin,1209,145
+Mapserver Export Map 1,200,OK,bin,1232,114
+Mapserver Export Map 1,200,OK,bin,1213,122
+Mapserver Export Map 1,200,OK,bin,1209,121
+Featureserver Query 1,200,OK,text,140630,91
+Featureserver Query 1,200,OK,text,354988,127
+Featureserver Query 1,200,OK,text,48970,215
+Featureserver Query 1,200,OK,text,105603,87
+Get Map Service Info,200,OK,text,1674,90
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1160,123
+Mapserver Export Map 1,200,OK,bin,1039,87
+Mapserver Export Map 1,200,OK,bin,1051,86
+Mapserver Export Map 1,200,OK,bin,1106,92
+Featureserver Query 1,200,OK,text,85305,89
+Featureserver Query 1,200,OK,text,293044,113
+Featureserver Query 1,200,OK,text,353034,128
+Featureserver Query 1,200,OK,text,137371,91
+Get Map Service Info,200,OK,text,1674,87
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1052,86
+Mapserver Export Map 1,200,OK,bin,1197,156
+Mapserver Export Map 1,200,OK,bin,1047,217
+Mapserver Export Map 1,200,OK,bin,1140,104
+Featureserver Query 1,200,OK,text,160956,92
+Featureserver Query 1,200,OK,text,16860,72
+Featureserver Query 1,200,OK,text,605,77
+Featureserver Query 1,200,OK,text,2806,68
+Get Map Service Info,200,OK,text,1674,87
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1054,89
+Mapserver Export Map 1,200,OK,bin,1076,89
+Mapserver Export Map 1,200,OK,bin,1143,112
+Mapserver Export Map 1,200,OK,bin,1151,102
+Featureserver Query 1,200,OK,text,603845,175
+Featureserver Query 1,200,OK,text,705620,174
+Featureserver Query 1,200,OK,text,193765,241
+Featureserver Query 1,200,OK,text,100217,83
+Get Map Service Info,200,OK,text,1674,86
+Get Legend,200,OK,text,912,72
+Mapserver Export Map 1,200,OK,bin,1089,87
+Mapserver Export Map 1,200,OK,bin,1064,83
+Mapserver Export Map 1,200,OK,bin,1136,91
+Mapserver Export Map 1,200,OK,bin,1245,117
+Featureserver Query 1,200,OK,text,850528,222
+Featureserver Query 1,200,OK,text,684452,168
+Featureserver Query 1,200,OK,text,8166,205
+Featureserver Query 1,200,OK,text,151268,94
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1104,92
+Mapserver Export Map 1,200,OK,bin,1121,114
+Mapserver Export Map 1,200,OK,bin,1260,139
+Mapserver Export Map 1,200,OK,bin,1121,109
+Featureserver Query 1,200,OK,text,497578,143
+Featureserver Query 1,200,OK,text,605,69
+Featureserver Query 1,200,OK,text,309842,117
+Featureserver Query 1,200,OK,text,165485,96
+Get Map Service Info,200,OK,text,1674,82
+Get Legend,200,OK,text,912,79
+Mapserver Export Map 1,200,OK,bin,1072,87
+Mapserver Export Map 1,200,OK,bin,1060,85
+Mapserver Export Map 1,200,OK,bin,1103,228
+Mapserver Export Map 1,200,OK,bin,1110,90
+Featureserver Query 1,200,OK,text,84044,83
+Featureserver Query 1,200,OK,text,442347,134
+Featureserver Query 1,200,OK,text,102655,87
+Featureserver Query 1,200,OK,text,126863,90
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1157,109
+Mapserver Export Map 1,200,OK,bin,1090,97
+Mapserver Export Map 1,200,OK,bin,1161,106
+Mapserver Export Map 1,200,OK,bin,1194,114
+Featureserver Query 1,200,OK,text,2700,70
+Featureserver Query 1,200,OK,text,22876,75
+Featureserver Query 1,200,OK,text,338888,126
+Featureserver Query 1,200,OK,text,605,202
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,77
+Mapserver Export Map 1,200,OK,bin,1165,145
+Mapserver Export Map 1,200,OK,bin,1063,82
+Mapserver Export Map 1,200,OK,bin,1172,101
+Mapserver Export Map 1,200,OK,bin,1054,82
+Featureserver Query 1,200,OK,text,84416,82
+Featureserver Query 1,200,OK,text,959841,217
+Featureserver Query 1,200,OK,text,605,68
+Featureserver Query 1,200,OK,text,89684,92
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1242,156
+Mapserver Export Map 1,200,OK,bin,1270,136
+Mapserver Export Map 1,200,OK,bin,1136,327
+Mapserver Export Map 1,200,OK,bin,1127,105
+Featureserver Query 1,200,OK,text,605,70
+Featureserver Query 1,200,OK,text,116964,90
+Featureserver Query 1,200,OK,text,545444,156
+Featureserver Query 1,200,OK,text,201964,108
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,74
+Mapserver Export Map 1,200,OK,bin,1223,120
+Mapserver Export Map 1,200,OK,bin,1162,108
+Mapserver Export Map 1,200,OK,bin,1103,104
+Mapserver Export Map 1,200,OK,bin,1184,111
+Featureserver Query 1,200,OK,text,154797,95
+Featureserver Query 1,200,OK,text,39798,76
+Featureserver Query 1,200,OK,text,157452,231
+Featureserver Query 1,200,OK,text,163585,101
+Get Map Service Info,200,OK,text,1674,97
+Get Legend,200,OK,text,912,72
+Mapserver Export Map 1,200,OK,bin,1092,105
+Mapserver Export Map 1,200,OK,bin,1189,125
+Mapserver Export Map 1,200,OK,bin,1076,104
+Mapserver Export Map 1,200,OK,bin,1242,159
+Featureserver Query 1,200,OK,text,4106,69
+Featureserver Query 1,200,OK,text,137830,93
+Featureserver Query 1,200,OK,text,351943,123
+Featureserver Query 1,200,OK,text,276945,130
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1026,87
+Mapserver Export Map 1,200,OK,bin,1082,233
+Mapserver Export Map 1,200,OK,bin,1049,81
+Mapserver Export Map 1,200,OK,bin,1088,93
+Featureserver Query 1,200,OK,text,428548,138
+Featureserver Query 1,200,OK,text,226074,104
+Featureserver Query 1,200,OK,text,69260,82
+Featureserver Query 1,200,OK,text,134509,92
+Get Map Service Info,200,OK,text,1674,90
+Get Legend,200,OK,text,912,72
+Mapserver Export Map 1,200,OK,bin,1204,153
+Mapserver Export Map 1,200,OK,bin,1228,106
+Mapserver Export Map 1,200,OK,bin,1103,89
+Mapserver Export Map 1,200,OK,bin,1139,125
+Featureserver Query 1,200,OK,text,577724,156
+Featureserver Query 1,200,OK,text,173003,239
+Featureserver Query 1,200,OK,text,33012,76
+Featureserver Query 1,200,OK,text,396233,131
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,74
+Mapserver Export Map 1,200,OK,bin,1129,100
+Mapserver Export Map 1,200,OK,bin,1242,112
+Mapserver Export Map 1,200,OK,bin,1216,110
+Mapserver Export Map 1,200,OK,bin,1247,109
+Featureserver Query 1,200,OK,text,174435,96
+Featureserver Query 1,200,OK,text,413903,131
+Featureserver Query 1,200,OK,text,89723,216
+Featureserver Query 1,200,OK,text,26159,75
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,69
+Mapserver Export Map 1,200,OK,bin,1129,101
+Mapserver Export Map 1,200,OK,bin,1026,80
+Mapserver Export Map 1,200,OK,bin,1034,83
+Mapserver Export Map 1,200,OK,bin,1234,134
+Featureserver Query 1,200,OK,text,120937,86
+Featureserver Query 1,200,OK,text,183473,100
+Featureserver Query 1,200,OK,text,466092,155
+Featureserver Query 1,200,OK,text,399405,129
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,76
+Mapserver Export Map 1,200,OK,bin,1086,91
+Mapserver Export Map 1,200,OK,bin,1086,87
+Mapserver Export Map 1,200,OK,bin,1188,236
+Mapserver Export Map 1,200,OK,bin,1051,88
+Featureserver Query 1,200,OK,text,38339,74
+Featureserver Query 1,200,OK,text,388055,128
+Featureserver Query 1,200,OK,text,341742,122
+Featureserver Query 1,200,OK,text,144880,223
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,71
+Mapserver Export Map 1,200,OK,bin,1041,97
+Mapserver Export Map 1,200,OK,bin,1198,243
+Mapserver Export Map 1,200,OK,bin,1098,103
+Mapserver Export Map 1,200,OK,bin,1247,140
+Featureserver Query 1,200,OK,text,329717,123
+Featureserver Query 1,200,OK,text,290062,119
+Featureserver Query 1,200,OK,text,18927,72
+Featureserver Query 1,200,OK,text,104296,90
+Get Map Service Info,200,OK,text,1674,99
+Get Legend,200,OK,text,912,75
+Mapserver Export Map 1,200,OK,bin,1196,164
+Mapserver Export Map 1,200,OK,bin,1143,100
+Mapserver Export Map 1,200,OK,bin,1078,90
+Mapserver Export Map 1,200,OK,bin,1073,95
+Featureserver Query 1,200,OK,text,45489,77
+Featureserver Query 1,200,OK,text,150136,96
+Featureserver Query 1,200,OK,text,140712,235
+Featureserver Query 1,200,OK,text,178624,98
+Get Map Service Info,200,OK,text,1674,82
+Get Legend,200,OK,text,912,71
+Mapserver Export Map 1,200,OK,bin,1098,99
+Mapserver Export Map 1,200,OK,bin,1026,81
+Mapserver Export Map 1,200,OK,bin,1076,86
+Mapserver Export Map 1,200,OK,bin,1309,145
+Featureserver Query 1,200,OK,text,166144,98
+Featureserver Query 1,200,OK,text,116363,88
+Featureserver Query 1,200,OK,text,340670,129
+Featureserver Query 1,200,OK,text,193894,104
+Get Map Service Info,200,OK,text,1674,88
+Get Legend,200,OK,text,912,71
+Mapserver Export Map 1,200,OK,bin,1026,79
+Mapserver Export Map 1,200,OK,bin,1167,107
+Mapserver Export Map 1,200,OK,bin,1177,272
+Mapserver Export Map 1,200,OK,bin,1057,87
+Featureserver Query 1,200,OK,text,605,66
+Featureserver Query 1,200,OK,text,12723,77
+Featureserver Query 1,200,OK,text,66332,81
+Featureserver Query 1,200,OK,text,279951,116
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1154,109
+Mapserver Export Map 1,200,OK,bin,1060,92
+Mapserver Export Map 1,200,OK,bin,1198,125
+Mapserver Export Map 1,200,OK,bin,1158,112
+Featureserver Query 1,200,OK,text,145814,97
+Featureserver Query 1,200,OK,text,694880,176
+Featureserver Query 1,200,OK,text,106496,88
+Featureserver Query 1,200,OK,text,229848,111
+Get Map Service Info,200,OK,text,1674,221
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1026,80
+Mapserver Export Map 1,200,OK,bin,1130,114
+Mapserver Export Map 1,200,OK,bin,1026,83
+Mapserver Export Map 1,200,OK,bin,1042,85
+Featureserver Query 1,200,OK,text,263291,111
+Featureserver Query 1,200,OK,text,202112,106
+Featureserver Query 1,200,OK,text,311211,122
+Featureserver Query 1,200,OK,text,168475,97
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1087,147
+Mapserver Export Map 1,200,OK,bin,1054,220
+Mapserver Export Map 1,200,OK,bin,1281,171
+Mapserver Export Map 1,200,OK,bin,1209,137
+Featureserver Query 1,200,OK,text,174225,97
+Featureserver Query 1,200,OK,text,605,66
+Featureserver Query 1,200,OK,text,18758,77
+Featureserver Query 1,200,OK,text,246828,108
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1166,101
+Mapserver Export Map 1,200,OK,bin,1138,105
+Mapserver Export Map 1,200,OK,bin,1045,88
+Mapserver Export Map 1,200,OK,bin,1026,82
+Featureserver Query 1,200,OK,text,939390,209
+Featureserver Query 1,200,OK,text,605,198
+Featureserver Query 1,200,OK,text,203200,99
+Featureserver Query 1,200,OK,text,24109,75
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,74
+Mapserver Export Map 1,200,OK,bin,1172,100
+Mapserver Export Map 1,200,OK,bin,1198,143
+Mapserver Export Map 1,200,OK,bin,1026,83
+Mapserver Export Map 1,200,OK,bin,1109,109
+Featureserver Query 1,200,OK,text,321650,124
+Featureserver Query 1,200,OK,text,2665,70
+Featureserver Query 1,200,OK,text,849996,209
+Featureserver Query 1,200,OK,text,16835,78
+Get Map Service Info,200,OK,text,1674,86
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1206,242
+Mapserver Export Map 1,200,OK,bin,1261,194
+Mapserver Export Map 1,200,OK,bin,1242,146
+Mapserver Export Map 1,200,OK,bin,1126,110
+Featureserver Query 1,200,OK,text,216161,103
+Featureserver Query 1,200,OK,text,2467,66
+Featureserver Query 1,200,OK,text,23740,73
+Featureserver Query 1,200,OK,text,192310,99
+Get Map Service Info,200,OK,text,1674,88
+Get Legend,200,OK,text,912,72
+Mapserver Export Map 1,200,OK,bin,1221,106
+Mapserver Export Map 1,200,OK,bin,1026,81
+Mapserver Export Map 1,200,OK,bin,1088,85
+Mapserver Export Map 1,200,OK,bin,1114,140
+Featureserver Query 1,200,OK,text,124739,94
+Featureserver Query 1,200,OK,text,236911,106
+Featureserver Query 1,200,OK,text,605,207
+Featureserver Query 1,200,OK,text,40599,76
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,69
+Mapserver Export Map 1,200,OK,bin,1208,114
+Mapserver Export Map 1,200,OK,bin,1181,127
+Mapserver Export Map 1,200,OK,bin,1123,97
+Mapserver Export Map 1,200,OK,bin,1034,82
+Featureserver Query 1,200,OK,text,605,70
+Featureserver Query 1,200,OK,text,141710,99
+Featureserver Query 1,200,OK,text,52648,77
+Featureserver Query 1,200,OK,text,605,69
+Get Map Service Info,200,OK,text,1674,92
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1182,136
+Mapserver Export Map 1,200,OK,bin,1255,168
+Mapserver Export Map 1,200,OK,bin,1090,101
+Mapserver Export Map 1,200,OK,bin,1223,105
+Featureserver Query 1,200,OK,text,499786,293
+Featureserver Query 1,200,OK,text,624108,177
+Featureserver Query 1,200,OK,text,212229,109
+Featureserver Query 1,200,OK,text,464436,138
+Get Map Service Info,200,OK,text,1674,87
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1054,86
+Mapserver Export Map 1,200,OK,bin,1038,80
+Mapserver Export Map 1,200,OK,bin,1048,89
+Mapserver Export Map 1,200,OK,bin,1088,90
+Featureserver Query 1,200,OK,text,605,66
+Featureserver Query 1,200,OK,text,20824,73
+Featureserver Query 1,200,OK,text,383906,126
+Featureserver Query 1,200,OK,text,543652,427
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1026,87
+Mapserver Export Map 1,200,OK,bin,1063,111
+Mapserver Export Map 1,200,OK,bin,1219,125
+Mapserver Export Map 1,200,OK,bin,1026,80
+Featureserver Query 1,200,OK,text,605,66
+Featureserver Query 1,200,OK,text,155534,104
+Featureserver Query 1,200,OK,text,438759,151
+Featureserver Query 1,200,OK,text,254298,119
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1086,233
+Mapserver Export Map 1,200,OK,bin,1034,81
+Mapserver Export Map 1,200,OK,bin,1065,85
+Mapserver Export Map 1,200,OK,bin,1050,84
+Featureserver Query 1,200,OK,text,530431,151
+Featureserver Query 1,200,OK,text,390899,138
+Featureserver Query 1,200,OK,text,386297,127
+Featureserver Query 1,200,OK,text,16005,74
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1171,107
+Mapserver Export Map 1,200,OK,bin,1054,86
+Mapserver Export Map 1,200,OK,bin,1060,85
+Mapserver Export Map 1,200,OK,bin,1146,109
+Featureserver Query 1,200,OK,text,36649,216
+Featureserver Query 1,200,OK,text,239909,105
+Featureserver Query 1,200,OK,text,605,67
+Featureserver Query 1,200,OK,text,85665,81
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,74
+Mapserver Export Map 1,200,OK,bin,1178,113
+Mapserver Export Map 1,200,OK,bin,1088,92
+Mapserver Export Map 1,200,OK,bin,1107,97
+Mapserver Export Map 1,200,OK,bin,1113,90
+Featureserver Query 1,200,OK,text,107031,90
+Featureserver Query 1,200,OK,text,102655,86
+Featureserver Query 1,200,OK,text,85757,84
+Featureserver Query 1,200,OK,text,21789,72
+Get Map Service Info,200,OK,text,1674,91
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1232,119
+Mapserver Export Map 1,200,OK,bin,1179,110
+Mapserver Export Map 1,200,OK,bin,1149,109
+Mapserver Export Map 1,200,OK,bin,1210,263
+Featureserver Query 1,200,OK,text,133815,90
+Featureserver Query 1,200,OK,text,614095,167
+Featureserver Query 1,200,OK,text,241040,108
+Featureserver Query 1,200,OK,text,123004,88
+Get Map Service Info,200,OK,text,1674,96
+Get Legend,200,OK,text,912,72
+Mapserver Export Map 1,200,OK,bin,1304,204
+Mapserver Export Map 1,200,OK,bin,1164,100
+Mapserver Export Map 1,200,OK,bin,1248,139
+Mapserver Export Map 1,200,OK,bin,1065,89
+Featureserver Query 1,200,OK,text,381162,126
+Featureserver Query 1,200,OK,text,290963,247
+Featureserver Query 1,200,OK,text,95493,85
+Featureserver Query 1,200,OK,text,120137,96
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,83
+Mapserver Export Map 1,200,OK,bin,1075,84
+Mapserver Export Map 1,200,OK,bin,1121,94
+Mapserver Export Map 1,200,OK,bin,1122,102
+Mapserver Export Map 1,200,OK,bin,1286,155
+Featureserver Query 1,200,OK,text,2821,70
+Featureserver Query 1,200,OK,text,39901,74
+Featureserver Query 1,200,OK,text,140839,95
+Featureserver Query 1,200,OK,text,17483,72
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1185,132
+Mapserver Export Map 1,200,OK,bin,1093,92
+Mapserver Export Map 1,200,OK,bin,1212,248
+Mapserver Export Map 1,200,OK,bin,1124,122
+Featureserver Query 1,200,OK,text,40810,75
+Featureserver Query 1,200,OK,text,47898,78
+Featureserver Query 1,200,OK,text,36140,74
+Featureserver Query 1,200,OK,text,628502,168
+Get Map Service Info,200,OK,text,1674,87
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1216,131
+Mapserver Export Map 1,200,OK,bin,1135,104
+Mapserver Export Map 1,200,OK,bin,1185,113
+Mapserver Export Map 1,200,OK,bin,1328,164
+Featureserver Query 1,200,OK,text,243735,109
+Featureserver Query 1,200,OK,text,11574,72
+Featureserver Query 1,200,OK,text,199413,102
+Featureserver Query 1,200,OK,text,322942,252
+Get Map Service Info,200,OK,text,1674,86
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1040,92
+Mapserver Export Map 1,200,OK,bin,1033,89
+Mapserver Export Map 1,200,OK,bin,1114,99
+Mapserver Export Map 1,200,OK,bin,1302,202
+Featureserver Query 1,200,OK,text,44590,87
+Featureserver Query 1,200,OK,text,145255,94
+Featureserver Query 1,200,OK,text,350184,127
+Featureserver Query 1,200,OK,text,506771,145
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,77
+Mapserver Export Map 1,200,OK,bin,1258,134
+Mapserver Export Map 1,200,OK,bin,1075,226
+Mapserver Export Map 1,200,OK,bin,1140,108
+Mapserver Export Map 1,200,OK,bin,1026,81
+Featureserver Query 1,200,OK,text,49027,75
+Featureserver Query 1,200,OK,text,304093,120
+Featureserver Query 1,200,OK,text,119865,91
+Featureserver Query 1,200,OK,text,337533,119
+Get Map Service Info,200,OK,text,1674,89
+Get Legend,200,OK,text,912,71
+Mapserver Export Map 1,200,OK,bin,1177,123
+Mapserver Export Map 1,200,OK,bin,1106,103
+Mapserver Export Map 1,200,OK,bin,1076,101
+Mapserver Export Map 1,200,OK,bin,1210,157
+Featureserver Query 1,200,OK,text,475638,162
+Featureserver Query 1,200,OK,text,88853,220
+Featureserver Query 1,200,OK,text,66632,79
+Featureserver Query 1,200,OK,text,19577,75
+Get Map Service Info,200,OK,text,1674,86
+Get Legend,200,OK,text,912,76
+Mapserver Export Map 1,200,OK,bin,1180,101
+Mapserver Export Map 1,200,OK,bin,1272,126
+Mapserver Export Map 1,200,OK,bin,1221,119
+Mapserver Export Map 1,200,OK,bin,1076,85
+Featureserver Query 1,200,OK,text,499177,148
+Featureserver Query 1,200,OK,text,289007,113
+Featureserver Query 1,200,OK,text,749390,186
+Featureserver Query 1,200,OK,text,8186,70
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,71
+Mapserver Export Map 1,200,OK,bin,1152,238
+Mapserver Export Map 1,200,OK,bin,1127,95
+Mapserver Export Map 1,200,OK,bin,1150,121
+Mapserver Export Map 1,200,OK,bin,1212,127
+Featureserver Query 1,200,OK,text,4722,68
+Featureserver Query 1,200,OK,text,474748,139
+Featureserver Query 1,200,OK,text,25972,75
+Featureserver Query 1,200,OK,text,301175,113
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,69
+Mapserver Export Map 1,200,OK,bin,1099,112
+Mapserver Export Map 1,200,OK,bin,1026,88
+Mapserver Export Map 1,200,OK,bin,1026,78
+Mapserver Export Map 1,200,OK,bin,1290,170
+Featureserver Query 1,200,OK,text,674579,178
+Featureserver Query 1,200,OK,text,209142,229
+Featureserver Query 1,200,OK,text,70563,81
+Featureserver Query 1,200,OK,text,213164,104
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1224,162
+Mapserver Export Map 1,200,OK,bin,1210,144
+Mapserver Export Map 1,200,OK,bin,1051,84
+Mapserver Export Map 1,200,OK,bin,1257,137
+Featureserver Query 1,200,OK,text,689516,174
+Featureserver Query 1,200,OK,text,276615,114
+Featureserver Query 1,200,OK,text,577952,160
+Featureserver Query 1,200,OK,text,14854,202
+Get Map Service Info,200,OK,text,1674,86
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1068,83
+Mapserver Export Map 1,200,OK,bin,1058,81
+Mapserver Export Map 1,200,OK,bin,1239,114
+Mapserver Export Map 1,200,OK,bin,1212,108
+Featureserver Query 1,200,OK,text,232026,105
+Featureserver Query 1,200,OK,text,266437,110
+Featureserver Query 1,200,OK,text,477660,273
+Featureserver Query 1,200,OK,text,164684,107
+Get Map Service Info,200,OK,text,1674,224
+Get Legend,200,OK,text,912,74
+Mapserver Export Map 1,200,OK,bin,1120,94
+Mapserver Export Map 1,200,OK,bin,1144,111
+Mapserver Export Map 1,200,OK,bin,1222,124
+Mapserver Export Map 1,200,OK,bin,1198,119
+Featureserver Query 1,200,OK,text,9340,70
+Featureserver Query 1,200,OK,text,258660,109
+Featureserver Query 1,200,OK,text,22826,73
+Featureserver Query 1,200,OK,text,269884,246
+Get Map Service Info,200,OK,text,1674,87
+Get Legend,200,OK,text,912,70
+Mapserver Export Map 1,200,OK,bin,1044,85
+Mapserver Export Map 1,200,OK,bin,1105,100
+Mapserver Export Map 1,200,OK,bin,1221,104
+Mapserver Export Map 1,200,OK,bin,1122,116
+Featureserver Query 1,200,OK,text,4644,69
+Featureserver Query 1,200,OK,text,140998,94
+Featureserver Query 1,200,OK,text,605,340
+Featureserver Query 1,200,OK,text,325037,128
+Get Map Service Info,200,OK,text,1674,86
+Get Legend,200,OK,text,912,77
+Mapserver Export Map 1,200,OK,bin,1034,84
+Mapserver Export Map 1,200,OK,bin,1026,79
+Mapserver Export Map 1,200,OK,bin,1053,84
+Mapserver Export Map 1,200,OK,bin,1284,144
+Featureserver Query 1,200,OK,text,158304,226
+Featureserver Query 1,200,OK,text,392780,128
+Featureserver Query 1,200,OK,text,161777,98
+Featureserver Query 1,200,OK,text,41221,211
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,72
+Mapserver Export Map 1,200,OK,bin,1151,95
+Mapserver Export Map 1,200,OK,bin,1054,82
+Mapserver Export Map 1,200,OK,bin,1236,135
+Mapserver Export Map 1,200,OK,bin,1069,89
+Featureserver Query 1,200,OK,text,77289,80
+Featureserver Query 1,200,OK,text,312326,113
+Featureserver Query 1,200,OK,text,271245,259
+Featureserver Query 1,200,OK,text,195154,102
+Get Map Service Info,200,OK,text,1674,93
+Get Legend,200,OK,text,912,75
+Mapserver Export Map 1,200,OK,bin,1054,82
+Mapserver Export Map 1,200,OK,bin,1194,165
+Mapserver Export Map 1,200,OK,bin,1214,264
+Mapserver Export Map 1,200,OK,bin,1026,79
+Featureserver Query 1,200,OK,text,78660,79
+Featureserver Query 1,200,OK,text,872662,202
+Featureserver Query 1,200,OK,text,323717,261
+Featureserver Query 1,200,OK,text,179737,99
+Get Map Service Info,200,OK,text,1674,84
+Get Legend,200,OK,text,912,157
+Mapserver Export Map 1,200,OK,bin,1026,215
+Mapserver Export Map 1,200,OK,bin,1041,81
+Mapserver Export Map 1,200,OK,bin,1139,97
+Mapserver Export Map 1,200,OK,bin,1086,93
+Featureserver Query 1,200,OK,text,156053,99
+Featureserver Query 1,200,OK,text,220321,105
+Featureserver Query 1,200,OK,text,934704,226
+Featureserver Query 1,200,OK,text,443322,272
+Get Map Service Info,200,OK,text,1674,85
+Get Legend,200,OK,text,912,73
+Mapserver Export Map 1,200,OK,bin,1081,87
+Mapserver Export Map 1,200,OK,bin,1204,108
+Mapserver Export Map 1,200,OK,bin,1218,111
+Mapserver Export Map 1,200,OK,bin,1116,230
+Featureserver Query 1,200,OK,text,306267,117
+Featureserver Query 1,200,OK,text,101475,95
+Featureserver Query 1,200,OK,text,130416,93
+Featureserver Query 1,200,OK,text,374726,262
+Get Map Service Info,200,OK,text,1674,83
+Get Legend,200,OK,text,912,71
+Mapserver Export Map 1,200,OK,bin,1257,158
+Mapserver Export Map 1,200,OK,bin,1201,139
+Mapserver Export Map 1,200,OK,bin,1037,83
+Mapserver Export Map 1,200,OK,bin,1210,250
+Featureserver Query 1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,text,3089,0

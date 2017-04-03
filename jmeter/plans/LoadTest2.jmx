@@ -20,12 +20,12 @@
           </elementProp>
           <elementProp name="service_folder" elementType="Argument">
             <stringProp name="Argument.name">service_folder</stringProp>
-            <stringProp name="Argument.value">Hosted</stringProp>
+            <stringProp name="Argument.value"></stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="service_name1" elementType="Argument">
             <stringProp name="Argument.name">service_name1</stringProp>
-            <stringProp name="Argument.value">ellipse</stringProp>
+            <stringProp name="Argument.value">airports2</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="log_folder" elementType="Argument">
@@ -35,7 +35,7 @@
           </elementProp>
           <elementProp name="server" elementType="Argument">
             <stringProp name="Argument.name">server</stringProp>
-            <stringProp name="Argument.value">dj32ags.westus.cloudapp.azure.com</stringProp>
+            <stringProp name="Argument.value">ags.example.com</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="port" elementType="Argument">
@@ -52,7 +52,7 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">100</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">1</stringProp>
+        <stringProp name="ThreadGroup.num_threads">5</stringProp>
         <stringProp name="ThreadGroup.ramp_time">1</stringProp>
         <longProp name="ThreadGroup.start_time">1373726172000</longProp>
         <longProp name="ThreadGroup.end_time">1373726172000</longProp>
