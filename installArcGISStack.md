@@ -81,12 +81,15 @@ systemctl enable httpd
 
 ## Install Tomcat 
 Since this is for ArcGIS I install in arcgis home.
+
+Tomcat updates frequently so the link below may need to be updated.  Check [Tomcat Site](http://www.apache.org/dist/tomcat/tomcat-8/) and use the latest release.
+
 <pre>
 su - arcgis
-curl -O http://www.apache.org/dist/tomcat/tomcat-8/v8.0.42/bin/apache-tomcat-8.0.42.tar.gz
+curl -O http://www.apache.org/dist/tomcat/tomcat-8/v8.0.43/bin/apache-tomcat-8.0.43.tar.gz
 
-md5sum apache-tomcat-8.0.42.tar.gz
-3cabfc2d3c320b7eb62f8a94da0447ea  apache-tomcat-8.0.42.tar.gz
+md5sum apache-tomcat-8.0.43.tar.gz
+9ae13c64db525924440429f6fcd95f84  apache-tomcat-8.0.43.tar.gz
 
 tar xvzf apache-tomcat-8.0.42.tar.gz
 
