@@ -91,9 +91,9 @@ curl -O http://www.apache.org/dist/tomcat/tomcat-8/v8.0.43/bin/apache-tomcat-8.0
 md5sum apache-tomcat-8.0.43.tar.gz
 9ae13c64db525924440429f6fcd95f84  apache-tomcat-8.0.43.tar.gz
 
-tar xvzf apache-tomcat-8.0.42.tar.gz
+tar xvzf apache-tomcat-8.0.43.tar.gz
 
-ln -s apache-tomcat-8.0.42 tomcat8
+ln -s apache-tomcat-8.0.43 tomcat8
 
 exit
 </pre>
