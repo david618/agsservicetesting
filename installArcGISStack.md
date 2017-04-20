@@ -66,7 +66,7 @@ Set swappiness to 1
 
 Reload configuration
 <pre>
-syscl -p
+sysctl -p
 </pre>
 
 ## Copy Installers and License Files to server
