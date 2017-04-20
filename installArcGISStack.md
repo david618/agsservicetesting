@@ -284,8 +284,8 @@ Servers
 Federated Servers
 
 Add Server
-https://dj32ags.westus.cloudapp.azure.com/arcgis
-https://dj32ags.westus.cloudapp.azure.com:6443/arcgis
+- https://dj32ags.westus.cloudapp.azure.com/arcgis
+- https://dj32ags.westus.cloudapp.azure.com:6443/arcgis
 
 Under Hosting Server
 
