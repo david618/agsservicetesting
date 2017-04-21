@@ -18,7 +18,7 @@ rpm -ivh http://yum.postgresql.org/9.5/redhat/rhel-7-x86_64/pgdg-centos95-9.5-3.
 
 yum info postgresql95
 
-<pre>
+</pre>
 
 This install version 9.5.6.  This is supported by ArcGIS 10.5; however only 9.5.3 is certified.
 
