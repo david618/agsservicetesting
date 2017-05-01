@@ -303,10 +303,10 @@ Register ArcGIS Server
 
 Portal
 Use Credentials
-Name: portal
-Username: portaladmin
-Password: <PASSWORD>
-https://dj32ags.westus.cloudapp.azure.com/portal
+- Name: portal
+- Username: portaladmin
+- Password: &lt;PASSWORD&gt;
+- https://dj32ags.westus.cloudapp.azure.com/portal
 
 ## Configure Startup Scripts
 
