@@ -94,13 +94,16 @@ systemctl restart postgresql-9.5
 su - postgres
 </pre>
 
-Add lines to .bash_profile
+Add line to .bash_profile
 
 <pre>
-export LD_LIBRARY_PATH=
-
 export PATH=$PATH:/usr/pgsql-9.5/bin
+</pre>
 
+
+Set postgres password.
+
+<pre>
 psql
 
 alter user postgres password 'PASSWORD';
