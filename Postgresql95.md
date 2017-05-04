@@ -108,20 +108,22 @@ psql
 
 alter user postgres password 'PASSWORD';
 
+\q
 </pre>
 
 ## Configure for ArcGIS 
 
-Copy st_geometry.so to /usr/pgsql-9.5/lib
+[Esri installation Instruction](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/gdbs-in-postgresql/setup-geodatabase-postgresql-linux.htm)
+
+Use pg_config command to LIBDIR.  For my installation it was /usr/pgsql-9.5/lib
+
+Copy st_geometry.so (This can be found in ArcGIS Desktop Installation) to /usr/pgsql-9.5/lib
 
 Set the permissions 755 same as other so files.
 
 Restart postgresql.
 
-*NOTE:* Some issues trying to manage via ssh tunnel.  I ended up adding a Windows Virtual Machine to my cluster and installed ArcGIS Desktop.
-
-### Install pgAdmin3
-This is a nice GUI app for administering Postgresql.
+### Create Data Folder
 
 Created a folder as postgres user.  
 
@@ -129,19 +131,80 @@ Created a folder as postgres user.
 mkdir /opt/pgdata/gis1
 </pre>
 
-From pgAdmin created a Tablespace "gis1" and pointed to this new folder.
+### Create Windows Server
 
-### Ran Create Enterprise GeoDatabase 
+**NOTE:** Ran into issues trying to manage via ssh tunnel.  I ended up adding a Windows Virtual Machine to my cluster and installed ArcGIS Desktop.  Small machine DS2v2 (2 cpu, 7g mem).
 
-Created Database
+Installed ArcGIS Desktop
 
-After creating the GeoDB.  I opened the database as admin (postgres) and added the "postgis" extension. 
+Installed [pgadmin3](https://www.pgadmin.org/)
 
-### Ran Create Geodatabase user
+This is a nice GUI app for administering Postgresql.
 
-Created user (e.g. user1)
+From pgAdmin3 connected to database as postgres user using the password you set earlier.
+
+Created a Tablespace "gis1" and pointed to this new folder "/opt/pgdata/gis1" 
+
+### Create Enterprise GeoDatabase 
+
+From ArcCatalog ran Create Enterprise Geodatabase
+
+- Database Platform: PostgreSQL
+- Instance: Server name (e.g. a81)
+- Database: gis1  (Create a new database named gis1)
+- Database Admin: postgres
+- DB Admin Password: You set this earlier
+- GeoDB Admin Password: Set something you want
+- Tablespace: gis1
+- Authorization File: &lt;Server Auth File&gt;
+
+After creating the GeoDB.  I opened the database as admin (postgres) in pgAdmin3.  Right click on Extensions and added the "postgis" extension.  Also added the "adminpack" extension.
+
+
+### Create Database Connection
+
+From ArcCatalog
+
+- Database Platform: PostgreSQL
+- Instance: Server Name (e.g. a81)
+- Database Authentication 
+- Username: postgres
+- Password: Use postgres password
+- Database: Select gis1
+
+### Create Geodatabase user
+
+From ArcCatalog ran Created user (e.g. user1)
+
+- Input Database Connection: Select the database connection you just created
+- Datbase User: For example user1
+- Database User Password: Password to be set for user1
+- Leave Role blank
+
+### Create Database Connection (user1)
+
+- Database Platform: PostgreSQL
+- Instance: Server Name (e.g. a81)
+- Database Authentication 
+- Username: user1
+- Password: user1's password
+- Database: Select gis1
+
+
+Now you can create feature classes as user1.
 
 ## Created a Table 
+
+From pgadmin3 create a connection to database as user1.
+
+- Name: a81_user1
+- Host: a81
+- Port: 5432
+- Maintenance DB: postgres
+- Username: user1
+- Password: The one you set earlier.
+
+Click on hte gis Database.  Click on Execute SQL tool.  Looks like a magnify class with SQL.  
 
 <pre>
 CREATE TABLE ellipse (
@@ -180,6 +243,9 @@ You'll need to registered the database.  Be sure the hostname is accessible from
 
 Per [setup instructions](http://desktop.arcgis.com/en/arcmap/latest/manage-data/gdbs-in-postgresql/setup-geodatabase-postgresql-linux.htm) you'll need to configure SDEHOME and PG_HOME.
 
+Added these to .bash_profile for arcgis user.
+
+
 <pre>
 export SDEHOME=/opt/arcgis/server
 export PG_HOME=/usr/pgsql-9.5
@@ -191,7 +257,11 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PG_HOME/lib:$SDEHOME/lib
 
 Wrote a Java App to create 1,000,000 random ellipses.  Added as app in [Simulator](https://github.com/david618/Simulator).
 
-Doing a commit every 1,000 inserts the load rate was about 600/s. 
+Doing a commit every 1,000 inserts the load rate was about 600/s.
+
+Using 4 instances the rate was about 2,400/s.
+
+
 
 
 
