@@ -58,7 +58,7 @@ public class LoadRandomEllipsesPostgresql {
             BufferedReader br = new BufferedReader(fr);
 
             br.readLine();  // discard first line header
-            String strLine = "";
+            String strLine;
             while ((strLine = br.readLine()) != null) {
                 String[] parts = strLine.split(",");
                 Double lat = Double.parseDouble(parts[0]);
@@ -77,8 +77,8 @@ public class LoadRandomEllipsesPostgresql {
     private void run() {
         try {
 
-            Connection c = null;
-            Statement stmt = null;
+            Connection c;
+            Statement stmt;
             c = DriverManager
                     .getConnection("jdbc:postgresql://pg95:5432/gis1",
                             "user1", "user1");
