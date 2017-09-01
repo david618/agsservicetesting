@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Mapserver Export Map 1,100,278,246,395,27.02,0.000%,9.09670,43.57,2.89,4904.8
+Featureserver Query 1,100,563,200,2317,365.27,0.000%,9.19963,1370.26,3.06,152522.5
+TOTAL,200,421,200,2317,295.81,0.000%,17.86193,1373.02,5.81,78713.6
